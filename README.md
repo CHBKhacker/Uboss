@@ -1,4 +1,4 @@
-**Uboss**
+# Uboss
 
 By the BlueHatCrew https://dsc.gg/blue-hat-crew
 
